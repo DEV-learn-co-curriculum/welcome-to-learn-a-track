@@ -1,0 +1,41 @@
+---
+track:
+    title: Welcome to Learn
+    uuid: f737e029-f041-404d-aae5-1f1d9b45d0b1
+    topics:
+    -   title: Welcome
+        uuid: c0348b1c-490f-4b67-8ee6-1087dfa26a06
+        units:
+        -   title: Getting Started
+            uuid: 2def0e60-703d-41c6-ba2c-06ffa7a48e4d
+            lessons:
+            -   title: Welcome To Learn
+                uuid: 28469aad-1aad-4026-a71e-6a1ac7aa3064
+                contents:
+                -   title: Welcome To Learn 1 B
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-1-b
+                    uuid: 106adc49-27c4-4df1-9292-8436ead3a208
+            -   title: How Software is Developed
+                uuid: 85ac52d3-6ad0-4bb6-8f6c-3844e8da9951
+                contents:
+                -   title: Welcome To Learn 3 B
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-3-b
+                    uuid: ed8f58ad-ab64-4b06-92b8-0f38a4e965d7
+            -   title: The Learn IDE
+                uuid: 18dbb076-67f3-45c7-83b4-306cf5340c91
+                contents:
+                -   title: Welcome To Learn 4 B
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-4-b
+                    uuid: 3f4bc9cd-0abe-4d45-b3cc-2d3cd02420b9
+            -   title: Solving Your First Lab
+                uuid: 7f50e6b0-9a44-405d-a188-182813b1c5fd
+                contents:
+                -   title: Welcome To Learn 5 B
+                    source: https://github.com/learn-co-curriculum/welcome-to-learn-5-b
+                    uuid: 61afc289-ff6f-465c-a776-011fdfa426d0
+            -   title: First Lesson
+                uuid: adf65644-30fb-4533-be0b-73265fcac30a
+                contents:
+                -   title: First Lesson
+                    source: https://github.com/DEV-learn-co-curriculum/first-lesson
+                    uuid: a0411f09-5be7-4b85-a169-1cc7d2e02890
